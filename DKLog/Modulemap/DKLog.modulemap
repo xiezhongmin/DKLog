@@ -1,0 +1,4 @@
+framework module DKLog {
+    header "DKLog.h"
+    export *
+}
